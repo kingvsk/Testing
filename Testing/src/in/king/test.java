@@ -12,5 +12,6 @@ public class test {
     public static void main(String[] args) {
         // Test printing...
         System.out.println("This is Testing");
+        System.out.println("Testing Success");
     }
 }
